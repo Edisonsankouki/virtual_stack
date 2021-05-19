@@ -1,0 +1,3 @@
+FUNC LABEL 0 
+    EQU STK A
+    RET

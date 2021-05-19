@@ -1,0 +1,7 @@
+FUNC LABEL 0
+    MOV REG 0 VAL 1
+    MOV REG 0 VAL 1
+    MOV REG 0 VAL 1
+    MOV REG 0 VAL 1
+    ....... (256)
+    RET

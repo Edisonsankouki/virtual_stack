@@ -1,0 +1,3 @@
+FUNC LABEL 0 
+    REF VAL 8 STK B
+    RET

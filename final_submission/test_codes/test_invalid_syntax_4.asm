@@ -1,0 +1,3 @@
+FUNC LABEL 0 
+    ADD STK A STK B
+    RET

@@ -1,0 +1,3 @@
+FUNC LABEL 0
+    NOT STK A
+    RET(010)
